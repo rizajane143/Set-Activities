@@ -1,0 +1,9 @@
+fruits = {"apple", "banana"}
+
+# Add "orange"
+fruits.add("orange")
+
+# Remove "banana"
+fruits.remove("banana")
+
+print(fruits)
