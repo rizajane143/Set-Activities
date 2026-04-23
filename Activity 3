@@ -1,0 +1,8 @@
+A = {1, 2, 3}
+B = {3, 4, 5}
+
+# Union (all elements)
+print(A | B)   # or A.union(B)
+
+# Intersection (common elements)
+print(A & B)   # or A.intersection(B)
