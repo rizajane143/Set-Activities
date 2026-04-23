@@ -1,0 +1,8 @@
+classA = {"John", "Ana", "Mark"}
+classB = {"Ana", "Mark", "Liza"}
+
+# Students in BOTH classes
+print(classA & classB)
+
+# ALL students
+print(classA | classB)
